@@ -1,4 +1,4 @@
-#Simple Web-Site
+# Simple Web-Site
 
 ### Emotion Themed website
 
@@ -18,9 +18,9 @@ The project was started by creating a new local repository using Git. Initial de
 
 #### Technologies used
 
-*HTML5
-*Inline CSS
-\*Git and GitHub for version control
+- HTML5
+- Inline CSS
+- Git and GitHub for version control
 
 #### Purpose
 
